@@ -31,7 +31,7 @@ In this folder you can find the materials from the Workshop on "Automation of th
 
 [Alex Hollingsworth](https://hollina.github.io/), Ohio State University
 
-- Slides not available yet <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2023/Day_1_4_Alex_Hollingsworth.pdf) <br/><br/>
 
 **Research workflow with confidential data: The experience of BPLIM**
 
