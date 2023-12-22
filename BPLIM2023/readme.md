@@ -52,7 +52,7 @@ In this folder you can find the materials from the Workshop on "Automation of th
 
 [Aaron Peikert](https://www.mpib-berlin.mpg.de/person/103737), Max Planck Institute for Human Development
 
-- [Slides](https://aaronpeikert.github.io/repro-talk/) <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2023/Day_2_1_Aaron_Peikert) <br/><br/> 
 
 
 **Friends don’t let friends copy-paste: Computationally reproducible APA-style manuscripts with the R package papaja**
