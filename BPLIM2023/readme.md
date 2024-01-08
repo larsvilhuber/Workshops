@@ -59,7 +59,7 @@ In this folder you can find the materials from the Workshop on "Automation of th
 
 [Frederik Aust](https://methexp.uni-koeln.de/en/members/frederik-aust/), University of Cologne
 
-- Slides not available yet <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2023/Day_2_2_Frederik_Aust.pdf) <br/><br/> 
 
 
 **Reproducible Data Analysis at the Speed of Thought**
