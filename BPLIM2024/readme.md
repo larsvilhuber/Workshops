@@ -32,13 +32,13 @@ In this folder you can find the materials from the Workshop on "Empirical Resear
 
 [Nelson Areal](https://nelsonareal.net/), Universidade do Minho
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) (available soon)<br/><br/>
 
 **Financial Agents for Research and Practice**
 
 [Michael Dowling](https://business.dcu.ie/staff/professor-michael-dowling/), DCU Business School, Dublin City University
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) (available soon)<br/><br/>
 
 
 
@@ -64,13 +64,13 @@ In this folder you can find the materials from the Workshop on "Empirical Resear
 
 [Ulrich Matter](https://umatter.github.io/), Bern University of Applied Sciences, and University of St. Gallen
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) (available soon)<br/><br/>
 
 **Reproducibility and AI: Potential, Challenges, and Other Preliminary Thoughts**
 
 [Lars Vilhuber](https://www.vilhuber.com/lars/), Cornell University, and American Economic Association
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) (available soon)<br/><br/>
 
 
 
