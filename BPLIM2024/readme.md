@@ -14,7 +14,7 @@ In this folder you can find the materials from the Workshop on "Empirical Resear
 
 [Jesse Lastunen](https://sites.google.com/view/lastunen/), UNU-WIDER
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/Day1_01_Jesse_Lastunen.pptx) <br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/Day1_01_Jesse_Lastunen.pdf) <br/><br/>
 
 **Uses of Generative AI for Economics Research**
 
@@ -57,7 +57,7 @@ In this folder you can find the materials from the Workshop on "Empirical Resear
 
 [Peter Gruber](https://search.usi.ch/people/4829015abeb9d8ad2e65ca4a746b56c7/gruber-peter), USI Università della Svizzera Italiana
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) <br/><br/> 
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/Day2_02_Peter_Gruber.pdf) <br/><br/> 
 
 
 **Using Large Language Models for Text-As-Data Studies in the Social Sciences**
