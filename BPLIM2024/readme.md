@@ -32,7 +32,7 @@ In this folder you can find the materials from the Workshop on "Empirical Resear
 
 [Nelson Areal](https://nelsonareal.net/), Universidade do Minho
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) (available soon)<br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/Day1_04_Nelson_Areal.pdf) <br/><br/>
 
 **Financial Agents for Research and Practice**
 
