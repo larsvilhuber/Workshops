@@ -70,7 +70,7 @@ In this folder you can find the materials from the Workshop on "Empirical Resear
 
 [Lars Vilhuber](https://www.vilhuber.com/lars/), Cornell University, and American Economic Association
 
-- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/) (available soon)<br/><br/>
+- [Slides](https://github.com/BPLIM/Workshops/blob/master/BPLIM2024/Day2_04_Lars_Vilhuber.pdf) <br/><br/>
 
 
 
